@@ -1,0 +1,29 @@
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.AssemblyInfoInputs.cache
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.AssemblyInfo.cs
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.sourcelink.json
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.exe
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.deps.json
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.runtimeconfig.json
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.pdb
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\refint\Ejercicio_Con_Funciones.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.pdb
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.genruntimeconfig.cache
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I\Ejercicio_Con_Funciones\obj\Debug\net9.0\ref\Ejercicio_Con_Funciones.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.exe
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.deps.json
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.runtimeconfig.json
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\bin\Debug\net9.0\Ejercicio_Con_Funciones.pdb
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.AssemblyInfoInputs.cache
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.AssemblyInfo.cs
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\refint\Ejercicio_Con_Funciones.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.pdb
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\Ejercicio_Con_Funciones.genruntimeconfig.cache
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\Ejercicio_Con_Funciones\obj\Debug\net9.0\ref\Ejercicio_Con_Funciones.dll
