@@ -12,3 +12,8 @@ C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonic
 C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\obj\Debug\net9.0\CentralitaTelefonica.pdb
 C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\obj\Debug\net9.0\CentralitaTelefonica.genruntimeconfig.cache
 C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\obj\Debug\net9.0\ref\CentralitaTelefonica.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\obj\Debug\net9.0\CentralitaTelefonica.csproj.AssemblyReference.cache
+C:\Users\aniba\Desktop\Class UNIBE\Programacion I ejercicios\CentralitaTelefonica\obj\Debug\net9.0\Centrali.69C33E3F.Up2Date

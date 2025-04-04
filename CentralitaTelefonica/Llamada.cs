@@ -1,4 +1,4 @@
-class Llamada
+public class Llamada
 {
     protected string numOrigen;
     protected string numDestino;
