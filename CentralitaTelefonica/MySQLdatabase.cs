@@ -3,7 +3,7 @@ using MySqlConnector;
 
 public class MySQLInserter
 {
-    private string connectionString = "Server=localhost;Database=centralita;User ID=root;Password=Conejo14@;";
+    private string connectionString = "Server=localhost;Database=centralita;User ID=root;Password=********;";
 
     public void InsertLlamada(Llamada llamada)
     {
